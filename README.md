@@ -1,7 +1,7 @@
 # CLMLF
 
 This is the repository of *CLMLF:A Contrastive Learning and Multi-Layer Fusion Method for
-Multimodal Sentiment Detection* [<a href='http' >pdf</a>] (NAACL 2022 Finding)
+Multimodal Sentiment Detection* [<a href='http' >pdf</a>] (Findings of NAACL 2022)
 
 <div align=center>
 <img src='util\img\CLMLF.svg' width=90% alt=''>
