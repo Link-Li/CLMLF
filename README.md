@@ -36,15 +36,15 @@ For example, MVSA-Single's images should be put in `dataset\data\MVSA-single\dat
 Download model:
 
 百度网盘：
-```
+<!-- ```
 链接：https://pan.baidu.com/s/1EUyZFN2uv3QxgNaS_ivh9A 
 提取码：yuvw
-```
+``` -->
 
 Google drive:
-```
+<!-- ```
 https://drive.google.com/file/d/1ZLHu6JsrAj3QE4dz4X5tFIBE5VprNZbp/view?usp=sharing
-```
+``` -->
 
 We provide running scripts as follow:
 
