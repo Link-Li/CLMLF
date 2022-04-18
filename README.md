@@ -33,6 +33,19 @@ For example, MVSA-Single's images should be put in `dataset\data\MVSA-single\dat
 
 ## Run code
 
+Download model:
+
+百度网盘：
+```
+链接：https://pan.baidu.com/s/1EUyZFN2uv3QxgNaS_ivh9A 
+提取码：yuvw
+```
+
+Google drive:
+```
+https://drive.google.com/file/d/1ZLHu6JsrAj3QE4dz4X5tFIBE5VprNZbp/view?usp=sharing
+```
+
 We provide running scripts as follow:
 
 As for MVSA-Single:
@@ -55,10 +68,12 @@ sh train-hfm.sh 0
 If you find this code useful for your research, please consider citing:
 
 ```
-@inproceedings{li2022clmlf,
-  title={CLMLF:A Contrastive Learning and Multi-Layer Fusion Method for Multimodal Sentiment Detection},
-  author={Zhen Li, Bing Xu, Conghui Zhu, Tiejun Zhao},
-  booktitle={NAACL2022 Finding},
-  year={2022}
+@misc{li2022clmlfa,
+      title={CLMLF:A Contrastive Learning and Multi-Layer Fusion Method for Multimodal Sentiment Detection}, 
+      author={Zhen Li and Bing Xu and Conghui Zhu and Tiejun Zhao},
+      year={2022},
+      eprint={2204.05515},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
