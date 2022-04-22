@@ -11,6 +11,8 @@ Multimodal Sentiment Detection* [<a href='https://arxiv.org/abs/2204.05515' >pdf
 
 We give the version of the python package we used, please refer to `requirements.txt`
 
+The code will released soon.
+
 ```
 python 3.6
 pytorch 1.7.1
@@ -72,8 +74,6 @@ If you find this code useful for your research, please consider citing:
       title={CLMLF:A Contrastive Learning and Multi-Layer Fusion Method for Multimodal Sentiment Detection}, 
       author={Zhen Li and Bing Xu and Conghui Zhu and Tiejun Zhao},
       year={2022},
-      eprint={2204.05515},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      archivePrefix={Findings of NAACL 2022}
 }
 ```
