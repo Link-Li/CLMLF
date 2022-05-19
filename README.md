@@ -72,7 +72,7 @@ If you find this code useful for your research, please consider citing:
 ```
 
 @inproceedings{li2022clmlfa,
-    title = "CLMLF:A Contrastive Learning and Multi-Layer Fusion Method for Multimodal Sentiment Detection",
+    title = "{CLMLF}:A Contrastive Learning and Multi-Layer Fusion Method for Multimodal Sentiment Detection",
     author = "Zhen Li and Bing Xu and Conghui Zhu and Tiejun Zhao",
     booktitle = "Findings of the Association for Computational Linguistics: NAACL 2022",
     year = "2022",
