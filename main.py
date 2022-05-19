@@ -181,7 +181,7 @@ if __name__ == '__main__':
         train_process.train_process(opt, train_loader, dev_loader, test_loader, cl_fuse_model, critertion, log_summary_writer)
     elif opt.run_type == 2:
         print('\nTest Begin')
-        model_path = "checkpoint/best_model/best-0.75333.pth"
+        model_path = "checkpoint/best_model/best-model.pth"
         cl_fuse_model.load_state_dict(torch.load(model_path, map_location='cpu'), strict=True)
         test_process.test_process(opt, critertion, cl_fuse_model, test_loader, epoch=1)
 
